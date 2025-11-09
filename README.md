@@ -1,13 +1,13 @@
 Release4.0 (V4-LTS)
-- Bump Armbian to 24.8
+- Bump Armbian to 25.11
 - Bump Debian to 13.1
 - Bunp linux kernels to 2025.10.12.
 - Replace neoftch with hyfech.
 - Add pakages :vkmark libsdl2-net-dev spek orchis-gtk-theme libsndfile1-dev.
   
 Release3.5.063024-dev (V3-LTS)
-- Bump Armbian to 24.8
-- Bump Debian to 12.11
+- Bump Armbian to 25.11
+- Bump Debian to 12.12
 - Bunp linux kernels to 2025.10.12.
 - Add pakages :eject libzip-dev zipcmp zipmerge ziptool libsdl2-mixer-dev
 - Add numix icon theme
