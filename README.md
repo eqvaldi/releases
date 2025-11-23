@@ -1,16 +1,20 @@
 Release4.0 (V4-LTS)
 - Bump Armbian to 25.11
-- Bump Debian to 13.1
+- Bump Debian to 13.2
 - Bunp linux kernels to 2025.10.12.
 - Replace neoftch with hyfech.
 - Add pakages :vkmark libsdl2-net-dev spek orchis-gtk-theme libsndfile1-dev.
-  
+- Remove Jetson Nano builds
+- Remove pakages :qtbase5-dev qtbase5-private-dev qtbase5-dev-tools qttools5-dev
+
 Release3.6 (V3-LTS)
 - Bump Armbian to 25.11
 - Bump Debian to 12.12
 - Bunp linux kernels to 2025.10.12.
 - Add pakages :eject libzip-dev zipcmp zipmerge ziptool libsdl2-mixer-dev
 - Add numix icon theme
+- Remove Jetson Nano builds 
+- Remove pakages :qtbase5-dev qtbase5-private-dev qtbase5-dev-tools qttools5-dev
 
 Release3.3.100623 (V3-LTS)
 - Bump Armbian to 23.11
