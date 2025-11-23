@@ -6,6 +6,7 @@ Release4.0 (V4-LTS)
 - Add pakages :vkmark libsdl2-net-dev spek orchis-gtk-theme libsndfile1-dev.
 - Remove Jetson Nano builds
 - Remove pakages :qtbase5-dev qtbase5-private-dev qtbase5-dev-tools qttools5-dev
+- LXQT replaces LXDE.
 
 Release3.6 (V3-LTS)
 - Bump Armbian to 25.11
