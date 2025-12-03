@@ -1,3 +1,6 @@
+Release4.1 (V4-DEV)
+- Replace spek with sox.
+
 Release4.0 (V4-LTS)
 - Bump Armbian to 25.11
 - Bump Debian to 13.2
