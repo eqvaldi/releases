@@ -1,5 +1,7 @@
 Release4.1 (V4-DEV)
 - Replace spek with sox.
+- Add new image variant: minimal (no Desktop Env.)
+                         KDE (WIP/not enabled to build by default)
 
 Release4.0 (V4-LTS)
 - Bump Armbian to 25.11
