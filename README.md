@@ -7,7 +7,7 @@ Release4.0 (V4-LTS)
 - Bump Debian to 13.2
 - Bunp linux kernels to 2025.11.23.
 - Replace neoftch with hyfech.
-- Add pakages :vkmark libsdl2-net-dev spek orchis-gtk-theme libsndfile1-dev.
+- Add pakages :libsdl2-net-dev spek orchis-gtk-theme libsndfile1-dev.
 - Remove Jetson Nano builds
 - Remove pakages :qtbase5-dev qtbase5-private-dev qtbase5-dev-tools qttools5-dev
 - LXQT replaces LXDE.
