@@ -3,16 +3,13 @@ Release4.1 (V4-DEV)
 
 Release4.0 (V4-LTS)
 - Replace spek with sox.
-- Add new image variants: minimal (no Desktop Env.) and KDE. (WIP/not enabled to build by default)
-- Bump Armbian to 26.xx
-- Bump Debian to 13.xx
-- Bunp linux kernels to 2026.1.8.
-- Bump Armbian to 25.11
-- Bump Debian to 13.2
-- Bunp linux kernels to 2025.11.23.
+- Add new image variants: minimal (no Desktop Env.) and KDE.
+- Bump Armbian to 26.02.0
+- Bump Debian to 13.3
+- Bunp linux kernels to 2026.2.4.
 - Replace neoftch with hyfech.
 - Add pakages :libsdl2-net-dev spek orchis-gtk-theme libsndfile1-dev.
-- Remove Jetson Nano builds
+- Remove Jetson Nano and Debian 12 builds.
 - Remove pakages :qtbase5-dev qtbase5-private-dev qtbase5-dev-tools qttools5-dev
 - LXQT replaces LXDE.
 
