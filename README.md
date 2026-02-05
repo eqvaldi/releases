@@ -1,5 +1,5 @@
 Release4.x (V4-DEV)
-- Add new image variant: KDE
+
 
 Release4.0 (V4-LTS)
 - Replace spek with sox.
