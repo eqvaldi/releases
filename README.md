@@ -1,9 +1,9 @@
-Release4.1 (V4-DEV)
-
+Release4.x (V4-DEV)
+- Add new image variant: KDE
 
 Release4.0 (V4-LTS)
 - Replace spek with sox.
-- Add new image variants: minimal (no Desktop Env.) and KDE.
+- Add new image variant: minimal (no Desktop Env.)
 - Bump Armbian to 26.02.0
 - Bump Debian to 13.3
 - Bunp linux kernels to 2026.2.4.
