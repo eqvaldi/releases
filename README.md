@@ -1,5 +1,10 @@
 Release4.x (V4-DEV)
 
+Release4.1 (V4-LTS)
+- Bump Armbian to 26.05.0
+- Bump Debian to 13.4
+- Bunp linux kernels to 2026.4.7.
+- Add pakage :Quakespasm.
 
 Release4.0 (V4-LTS)
 - Replace spek with sox.
