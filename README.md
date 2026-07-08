@@ -3,7 +3,7 @@ Release5.0 (V5-DEV)
 - Bump Armbian to 26.xx.0
 - Bump Debian to 13.5
 - Bump linux kernels to 2026.7.xx.
-- Add Jetson-nano ssh/seriál only. (no display out)
+- Add Jetson-nano ssh/serial only. (no display out)
 
 Release4.x (V4-DEV)
 
