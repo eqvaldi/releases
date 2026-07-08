@@ -5,7 +5,7 @@ Release5.0 (V5-DEV)
 - Bump linux kernels to 2026.7.xx.
 - Add Jetson-nano ssh/serial only. (no display out)
 - Add Ubuntu support for only: minimal/XFCE/Cinnamon.
--Add UEFI support for AARCH64 and RISCV64.
+- Add UEFI support for AARCH64 and RISCV64.
 
 Release4.x (V4-DEV)
 
