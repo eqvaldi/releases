@@ -1,9 +1,20 @@
+Release5.0 (V5-DEV)
+
+- Bump Armbian to 26.xx.0
+- Bump Debian to 13.5
+- Bump linux kernels to 2026.7.xx.
+- Add Jetson-nano ssh/seriál only. (no display out)
+
 Release4.x (V4-DEV)
+
+- Bump Armbian to 26.05.0
+- Bump Debian to 13.4
+- Bump linux kernels to 2026.4.7.
 
 Release4.1 (V4-LTS)
 - Bump Armbian to 26.05.0
 - Bump Debian to 13.4
-- Bunp linux kernels to 2026.4.7.
+- Bump linux kernels to 2026.4.7.
 - Add pakage :Quakespasm.
 
 Release4.0 (V4-LTS)
@@ -12,7 +23,7 @@ Release4.0 (V4-LTS)
 - Add new image variant: KDE
 - Bump Armbian to 26.02.0
 - Bump Debian to 13.3
-- Bunp linux kernels to 2026.2.4.
+- Bump linux kernels to 2026.2.4.
 - Replace neoftch with hyfech.
 - Add pakages :libsdl2-net-dev spek orchis-gtk-theme libsndfile1-dev.
 - Remove Jetson Nano and Debian 12 builds.
@@ -22,7 +33,7 @@ Release4.0 (V4-LTS)
 Release3.6 (V3-LTS)
 - Bump Armbian to 25.11
 - Bump Debian to 12.12
-- Bunp linux kernels to 2025.11.23.
+- Bump linux kernels to 2025.11.23.
 - Add pakages :eject libzip-dev zipcmp zipmerge ziptool libsdl2-mixer-dev
 - Add numix icon theme
 - Remove Jetson Nano builds 
