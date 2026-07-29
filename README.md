@@ -1,17 +1,13 @@
-Release5.0 (V5-DEV)
+Release4.5 (V5-DEV)
 
 - Bump Armbian to 26.xx.0
-- Bump Debian to 13.5
-- Bump linux kernels to 2026.7.xx.
-- Add Jetson-nano ssh/serial only. (no display out)
+- Bump Debian to 13.6
+- Bump linux kernels to 2026.7.29.
 - Add Ubuntu support for only: minimal/XFCE/Cinnamon.
 - Add UEFI support for AARCH64 and RISCV64.
-
-Release4.x (V4-DEV)
-
-- Bump Armbian to 26.05.0
-- Bump Debian to 13.4
-- Bump linux kernels to 2026.4.7.
+- Switch to a new data compression format. (From 7zip to xz)
+- Bump Armbian to 26.08.0
+- Bump linux kernels to 2026.7.29.
 
 Release4.1 (V4-LTS)
 - Bump Armbian to 26.05.0
