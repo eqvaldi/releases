@@ -1,6 +1,5 @@
 Release4.5 (V4-LTS)
 
-- Bump Armbian to 26.xx.0
 - Bump Debian to 13.6
 - Bump linux kernels to 2026.7.29.
 - Add Ubuntu support for only: minimal/XFCE/Cinnamon.
