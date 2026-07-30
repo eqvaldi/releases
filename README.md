@@ -1,4 +1,4 @@
-Release4.5 (V5-DEV)
+Release4.5 (V4-LTS)
 
 - Bump Armbian to 26.xx.0
 - Bump Debian to 13.6
