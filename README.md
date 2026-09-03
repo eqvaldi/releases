@@ -1,3 +1,10 @@
+Release4.5.1 (V4-LTS)
+
+- Added theming to Desktop environments.
+- Updated some packages.
+- Bump Armbian to 26.11.0
+- Bump linux kernels to 2026.9.3.
+  
 Release4.5 (V4-LTS)
 
 - Bump Debian to 13.6
