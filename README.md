@@ -1,9 +1,13 @@
+Release4.x (V4-WIP)
+
+- Bump Armbian to 26.11.0
+- Bump linux kernels to 2026.xx.xx.
+
 Release4.5.1 (V4-LTS)
 
 - Added theming to Desktop environments.
 - Updated some packages.
-- Bump Armbian to 26.11.0
-- Bump linux kernels to 2026.9.3.
+- Bump linux kernels to 2026.9.4.
   
 Release4.5 (V4-LTS)
 
