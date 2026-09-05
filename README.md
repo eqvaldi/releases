@@ -52,12 +52,12 @@ Release3.3.100623 (V3-LTS)
 - Bump Debian to 12.2
 - Add pakages :libsdl2-net-dev spek
 
-Release2.7.100623 (V2-LTS)
+Release2.7.100623 (V2-LTS EOL)
 - Bump Armbian to 23.11
 - Bump Debian to 11.8
 - Add pakages :libsdl2-net-dev
 
-Release2.6.080623 (V2-LTS)
+Release2.6.080623 (V2-LTS EOL)
 - Bump Armbian to 23.08
 
 Release3.2.080623 (V3-LTS)
@@ -73,13 +73,13 @@ Release3.0.053023 (V3-LTS)
 - Move to Bookworm (Debian 12)
 - Bump Linux kernel version ,6.1.xx ,5.4.242 ,(EDGE 6.3.x) (Current).
 
-Release2.5.053023 (V2-LTS)
+Release2.5.053023 (V2-LTS EOL)
 - Bump Armbian to 23.05
 - Bump Debian to 11.7
 - Add pakages :bash-completion alsa-utils apt-utils sudo alsa-firmware-loaders cifs-utils
 - Bump Linux kernel version ,6.1.xx ,5.4.242 ,(EDGE 6.3.x) (Current).
 
-Release2.1.031423 (V2-LTS)
+Release2.1.031423 (V2-LTS EOL)
 - move to minimal from standard debian
 - Remove Jetson Nano builds 
 - Bump Armbian to 23.02
