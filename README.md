@@ -1,7 +1,12 @@
-Release4.x (V4-WIP)
+Release5.x (V4-WIP)
 
 - Bump Armbian to 26.11.0
 - Bump linux kernels to 2026.xx.xx.
+
+Release4.5.2 (V4-LTS)
+
+- Add wallpaper.
+- Updated some packages.
 
 Release3.7 (V3-LTS)
 - Bump Armbian to 26.08.0
