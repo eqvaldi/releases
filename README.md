@@ -1,4 +1,4 @@
-### total downloads.
+### Total downloads.
 [![Downloads (total)](https://shields.io/github/downloads/eqvaldi/releases/total)](https://github.com/eqvaldi/releases/releases)
 
 
