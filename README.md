@@ -1,3 +1,8 @@
+### total downloads.
+[![Downloads (total)](https://shields.io/github/downloads/eqvaldi/releases/total)](https://github.com/eqvaldi/releases/releases)
+
+
+### CHANGELOG
 Release5.x (V4-WIP)
 
 - Bump Armbian to 26.11.0
