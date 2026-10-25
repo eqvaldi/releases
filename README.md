@@ -11,19 +11,15 @@ Release5.x (V4-WIP)
 Release4.5.2 (V4-LTS)
 
 - Add wallpaper.
+- Added theming to Desktop environments.
 - Updated some packages.
+- Bump linux kernels to 2026.9.4.
 
 Release3.7 (V3-LTS)
 - Bump Armbian to 26.08.0
 - Bump Debian to 12.15
 - Bump linux kernels to 2026.10.16.
 - Added theming to Desktop environments.
-
-Release4.5.1 (V4-LTS)
-
-- Added theming to Desktop environments.
-- Updated some packages.
-- Bump linux kernels to 2026.9.4.
   
 Release4.5 (V4-LTS)
 
