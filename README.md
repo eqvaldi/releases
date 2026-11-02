@@ -3,7 +3,7 @@
 
 
 ### CHANGELOG
-Release5.x (V4-WIP)
+Release5.x (V5-WIP)
 
 - Bump Armbian to 26.11.0
 - Bump linux kernels to 2026.xx.xx.
