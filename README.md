@@ -10,9 +10,14 @@ Release5.x (V4-WIP)
 - Replace xarchiver with unrar-free.
 - Bump Debian to 14.0
 
+Release4.5.6 (V4-WIP)
+
+- Updated packages.
+- Bump linux kernels to 2026.xx.xx.
+
 Release4.5.2 (V4-LTS)
 
-- Add wallpaper.
+- Add wallpaper to some desktops.
 - Added theming to Desktop environments.
 - Updated some packages.
 - Bump linux kernels to 2026.9.4.
