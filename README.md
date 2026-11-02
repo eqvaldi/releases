@@ -7,6 +7,7 @@ Release5.x (V4-WIP)
 
 - Bump Armbian to 26.11.0
 - Bump linux kernels to 2026.xx.xx.
+- Replace xarchiver with unrar-free.
 
 Release4.5.2 (V4-LTS)
 
